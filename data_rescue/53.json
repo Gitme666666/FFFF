@@ -1,0 +1,183 @@
+{
+    "w": 19,
+    "h": 19,
+    "type": "rescue",
+    "rescueMode": {
+        "pos": "3aFm",
+        "type": "mode34",
+        "size": 9,
+        "count": 3,
+        "value": 100
+    },
+    "bricks": [
+        {
+            "size": 1,
+            "type": "brick1",
+            "value": 100,
+            "color": 9,
+            "loca": [
+                "3l2J",
+                "3l22",
+                "3l2H",
+                "FFJH",
+                "FFJ1",
+                "FFJl"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "brick6",
+            "value": 100,
+            "color": 1,
+            "loca": [
+                "331m",
+                "3F32",
+                "3lAF",
+                "3l2a",
+                "311l",
+                "3111",
+                "311F",
+                "3113",
+                "31lJ",
+                "31l2",
+                "31lH",
+                "31l1",
+                "31ll",
+                "31lF",
+                "31l3",
+                "31lm",
+                "31lA",
+                "3l2m",
+                "3Fa1",
+                "3Fma",
+                "33lF",
+                "3l21",
+                "3Faa",
+                "3F3F",
+                "33l2",
+                "FFm1",
+                "FFml",
+                "FFam",
+                "FlH2",
+                "F1lF",
+                "FHma",
+                "FFmA",
+                "FFAa",
+                "FFAJ",
+                "FFA2",
+                "FFJF",
+                "Fl1a",
+                "F1F1",
+                "FHmm",
+                "FFJ2",
+                "FlHF",
+                "F1Fa",
+                "FHm1",
+                "FFAH",
+                "FFA1",
+                "FFAl",
+                "FFAF",
+                "FFA3",
+                "FFAm",
+                "FFAA",
+                "FHAl",
+                "F13J",
+                "3a3m",
+                "FF2H",
+                "F33l",
+                "FmlJ",
+                "3a33",
+                "3aaH",
+                "3a3A",
+                "3Jll",
+                "3a3F",
+                "3Ha3",
+                "3HmH",
+                "3lHl",
+                "3a3l",
+                "3Fm3",
+                "33FH",
+                "3a31",
+                "3a3H"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "size": 1,
+            "type": "scatter",
+            "value": 100,
+            "color": 0,
+            "loca": [
+                "Fl13",
+                "FA23",
+                "32HJ",
+                "3FJJ"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "portal",
+            "value": 7,
+            "color": 0,
+            "loca": [
+                "3HaH",
+                "33ll"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "portal",
+            "value": 2,
+            "color": 0,
+            "loca": [
+                "3FmH",
+                "33lJ"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "portal",
+            "value": 3,
+            "color": 0,
+            "loca": [
+                "Fm13",
+                "FHmH"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "portal",
+            "value": 5,
+            "color": 0,
+            "loca": [
+                "F1F3",
+                "FHm3"
+            ]
+        }
+    ],
+    "props2": [
+        {
+            "size": 1,
+            "type": "spikes",
+            "value": 1,
+            "color": 0,
+            "loca": [
+                "FFJH",
+                "FFJ1",
+                "FFJl"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "spikes",
+            "value": 3,
+            "color": 0,
+            "loca": [
+                "3l2J",
+                "3l22",
+                "3l2H"
+            ]
+        }
+    ]
+}

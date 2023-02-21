@@ -1,0 +1,112 @@
+{
+    "w": 17,
+    "h": 17,
+    "type": "rescue",
+    "rescueMode": {
+        "type": "mode1",
+        "pos": "3F1A",
+        "size": 5,
+        "value": 50,
+        "count": 3
+    },
+    "bricks": [
+        {
+            "size": 1,
+            "type": "brick1",
+            "value": 70,
+            "color": 0,
+            "loca": [
+                "332F",
+                "3A2m",
+                "3A2a",
+                "3A2J",
+                "3HJl",
+                "33AH",
+                "3mFJ",
+                "3H3F",
+                "3H33",
+                "332H",
+                "3Hm1",
+                "3lm3",
+                "3lAa",
+                "3mFa",
+                "3A23",
+                "3HmH",
+                "3FlF",
+                "3l2J",
+                "3AAl",
+                "31l2",
+                "malm",
+                "3212",
+                "3J3l",
+                "33A1",
+                "31lH",
+                "3l22",
+                "3J33",
+                "3J3F",
+                "mJ23",
+                "mJ2m",
+                "mJ2A",
+                "maF2",
+                "321F"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "brick1",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "3AmA",
+                "3AAa",
+                "3AA1",
+                "3ml3",
+                "3A2F",
+                "3mlm",
+                "3HaA",
+                "3HJa",
+                "3HJJ",
+                "3HJ1",
+                "33Aa",
+                "3lJm",
+                "31la",
+                "3Hm2",
+                "311A"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "brick1",
+            "value": 1,
+            "color": 0,
+            "loca": [
+                "3FlA",
+                "3323",
+                "3FFa",
+                "3lAJ",
+                "3A2l",
+                "3HmJ",
+                "3Fll",
+                "3322",
+                "3lmF",
+                "maFJ",
+                "321l",
+                "3AAJ",
+                "311l",
+                "3mlH"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "size": 1,
+            "type": "bomb",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "3Fl3"
+            ]
+        }
+    ],
+    "props2": []
+}

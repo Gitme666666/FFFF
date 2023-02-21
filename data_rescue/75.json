@@ -1,0 +1,215 @@
+{
+    "w": 15,
+    "h": 15,
+    "type": "rescue",
+    "rescueMode": {
+        "type": "mode19",
+        "pos": "mJFl",
+        "size": 5,
+        "value": 50,
+        "count": 3
+    },
+    "bricks": [
+        {
+            "type": "brick6",
+            "value": 0,
+            "color": 0,
+            "loca": [
+                "m2m2",
+                "mH12",
+                "m1a2",
+                "ml22",
+                "mlm2",
+                "3312",
+                "3AmH",
+                "331H",
+                "mlmH",
+                "mH1H",
+                "3A2H",
+                "3mFH",
+                "3311",
+                "3Am1",
+                "mlm1",
+                "mH11",
+                "331l",
+                "3Aml",
+                "mlml",
+                "mH1l",
+                "mH1F",
+                "mlmF",
+                "331F",
+                "3AmF",
+                "3ma3",
+                "3313",
+                "3mF3",
+                "3A23",
+                "mH13",
+                "mlm3",
+                "3Am3"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 200,
+            "color": 0,
+            "loca": [
+                "3mF2",
+                "3A22",
+                "3Am2",
+                "ma12"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 150,
+            "color": 1,
+            "loca": [
+                "ml2H",
+                "m1FH",
+                "3maH",
+                "m1aH"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 300,
+            "color": 0,
+            "loca": [
+                "331m",
+                "mJFm",
+                "mlmm",
+                "m1FA",
+                "m1aA",
+                "ml2A",
+                "mH1A",
+                "m2mA",
+                "ma1A",
+                "3AmA",
+                "3A2A",
+                "3mFA",
+                "3maA",
+                "331A",
+                "mJFA",
+                "mlmA",
+                "mJ3a",
+                "mlAa",
+                "33la",
+                "mHlJ",
+                "m1JJ",
+                "m13J",
+                "3AAJ",
+                "3AHJ",
+                "3m3J",
+                "mlAJ",
+                "mJ3J",
+                "33lJ",
+                "m2AJ",
+                "m2HJ",
+                "mJJJ",
+                "malJ",
+                "mlA2",
+                "33l2",
+                "m1JH",
+                "mHlH",
+                "m13H",
+                "mlHH",
+                "3AAH",
+                "3AHH",
+                "3m3H",
+                "3mJH",
+                "33lH",
+                "mlAH"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 100,
+            "color": 0,
+            "loca": [
+                "3mam"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 1,
+            "color": 0,
+            "loca": [
+                "m2mm"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "type": "portal",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "m1F2",
+                "3mFF"
+            ]
+        },
+        {
+            "type": "gun_part",
+            "value": 270,
+            "color": 0,
+            "loca": [
+                "3ma2"
+            ]
+        },
+        {
+            "type": "gun_part",
+            "value": 360,
+            "color": 0,
+            "loca": [
+                "m1Fl"
+            ]
+        },
+        {
+            "type": "scatter",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "3A2l",
+                "3mFl",
+                "3mal",
+                "m1F3",
+                "ml23",
+                "m1a3"
+            ]
+        },
+        {
+            "type": "gun_part",
+            "value": 90,
+            "color": 0,
+            "loca": [
+                "ma1m"
+            ]
+        }
+    ],
+    "props2": [
+        {
+            "type": "spikes",
+            "value": 3,
+            "color": 0,
+            "loca": [
+                "331m"
+            ]
+        },
+        {
+            "type": "key",
+            "value": 3,
+            "color": 0,
+            "loca": [
+                "3mam"
+            ]
+        },
+        {
+            "type": "lock2",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "m2mm"
+            ]
+        }
+    ]
+}

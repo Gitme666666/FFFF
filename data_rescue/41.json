@@ -1,0 +1,221 @@
+{
+    "w": 19,
+    "h": 19,
+    "type": "rescue",
+    "rescueMode": {
+        "pos": "FFmA",
+        "type": "mode28",
+        "size": 9,
+        "count": 7,
+        "value": 100
+    },
+    "bricks": [
+        {
+            "size": 1,
+            "type": "brick1",
+            "value": 900,
+            "color": 6,
+            "loca": [
+                "FA2H",
+                "FA21",
+                "FA2l"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "brick6",
+            "value": 900,
+            "color": 9,
+            "loca": [
+                "32Jm",
+                "32A1",
+                "3H3a",
+                "311F",
+                "3l22",
+                "3lAm",
+                "3F31",
+                "3F3H",
+                "331A",
+                "3lA3",
+                "3l2J",
+                "311l",
+                "3HFA",
+                "32AH",
+                "32J3",
+                "3J1J",
+                "33la",
+                "3J1F",
+                "3222",
+                "32Am",
+                "3H31",
+                "31la",
+                "3l2F",
+                "3Fa2",
+                "3F3m",
+                "3F33",
+                "33lH",
+                "3FaJ",
+                "3l2l",
+                "311A",
+                "3H3H",
+                "32A3",
+                "322J",
+                "33l1",
+                "33ll",
+                "3F3A",
+                "3FaH",
+                "3l23",
+                "31lJ",
+                "3H3l",
+                "32AA",
+                "322H",
+                "3Jla",
+                "3aFF",
+                "3aFl",
+                "3a3a",
+                "3J1l",
+                "3J13",
+                "33lA",
+                "33Fa",
+                "33FJ",
+                "33F2",
+                "33FH",
+                "3FmF",
+                "3FJa",
+                "3lH1",
+                "31lm",
+                "3Hm2",
+                "3HaF",
+                "32Ha",
+                "3Jl1",
+                "3a3m",
+                "FHAa",
+                "F1FF",
+                "Fl12",
+                "FFJm",
+                "FFA1",
+                "F33a",
+                "Fm1F",
+                "FA22",
+                "FAAm",
+                "3a31",
+                "322F",
+                "3Ha2",
+                "3H3m",
+                "31l1",
+                "3lHa",
+                "3aa2",
+                "FA2F",
+                "Fmla",
+                "F331",
+                "33lm",
+                "3Fm2",
+                "3FaF",
+                "FFAm",
+                "FF22",
+                "Fl1F",
+                "F13a",
+                "FHA1",
+                "FHAJ",
+                "FHA2",
+                "FHAH",
+                "FHAl",
+                "FHAF",
+                "FHA3",
+                "33F1",
+                "33Fl",
+                "3HaH",
+                "3Ha1",
+                "3Hal",
+                "3Ha3",
+                "3Ham",
+                "3HaA",
+                "32HH",
+                "3Jl3",
+                "3aal",
+                "FA2A",
+                "FmlH",
+                "Fml2",
+                "FmlJ",
+                "Fm1A",
+                "Fm1m",
+                "Fm13",
+                "3J12"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "size": 1,
+            "type": "scatter",
+            "value": 5,
+            "color": 0,
+            "loca": [
+                "3amJ"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "portal",
+            "value": 7,
+            "color": 0,
+            "loca": [
+                "3lHF",
+                "322A"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "portal",
+            "value": 2,
+            "color": 0,
+            "loca": [
+                "F1F3",
+                "33l2"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "portal",
+            "value": 3,
+            "color": 0,
+            "loca": [
+                "3ama",
+                "F33H"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "portal",
+            "value": 4,
+            "color": 0,
+            "loca": [
+                "FF21",
+                "3Fml"
+            ]
+        },
+        {
+            "size": 1,
+            "type": "portal",
+            "value": 5,
+            "color": 0,
+            "loca": [
+                "3H3A",
+                "33l3"
+            ]
+        }
+    ],
+    "props2": [
+        {
+            "size": 1,
+            "type": "spikes",
+            "value": 3,
+            "color": 0,
+            "loca": [
+                "FA21",
+                "FA2l",
+                "FA2H"
+            ]
+        }
+    ]
+}

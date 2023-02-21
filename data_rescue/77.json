@@ -1,0 +1,91 @@
+{
+    "w": 13,
+    "h": 13,
+    "type": "rescue",
+    "rescueMode": {
+        "type": "mode22",
+        "pos": "mFJA",
+        "size": 5,
+        "value": 60,
+        "count": 3
+    },
+    "bricks": [
+        {
+            "type": "brick7",
+            "value": 0,
+            "color": 0,
+            "loca": [
+                "m1Fa",
+                "mlJ2",
+                "mlF1",
+                "mFJF",
+                "mFFm",
+                "m32a",
+                "m332",
+                "mHlF",
+                "mm3F",
+                "m1FJ",
+                "m33H",
+                "mHl3",
+                "mm33",
+                "m1F2",
+                "m331",
+                "mHlm",
+                "mm3m",
+                "m1FH",
+                "m33l",
+                "mHlA",
+                "mm3A",
+                "m1F1",
+                "m33F",
+                "mHFa",
+                "mmma",
+                "m1Fl",
+                "m333",
+                "mHFJ",
+                "mmmJ",
+                "m1FF",
+                "m33m",
+                "m32F",
+                "mF31",
+                "mHF2",
+                "mmm2",
+                "mmmH",
+                "mHFH",
+                "mmm1",
+                "mmH2",
+                "m3ma",
+                "m32m",
+                "mF3F",
+                "mF21",
+                "ml32",
+                "ml2a",
+                "m1Fm",
+                "m1JF",
+                "mHF1",
+                "mHFF",
+                "m1Jm",
+                "m13a",
+                "m3Ha",
+                "ml22",
+                "m3m2",
+                "mAHm",
+                "mmmF",
+                "mmH1",
+                "mHJ1"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "type": "scatter",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "mAHa",
+                "mHaF"
+            ]
+        }
+    ],
+    "props2": []
+}

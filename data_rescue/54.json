@@ -1,0 +1,134 @@
+{
+    "w": 15,
+    "h": 15,
+    "type": "rescue",
+    "rescueMode": {
+        "type": "mode32",
+        "pos": "mJF3",
+        "size": 7,
+        "value": 50,
+        "count": 6
+    },
+    "bricks": [
+        {
+            "type": "brick1",
+            "value": 700,
+            "color": 9,
+            "loca": [
+                "mlmH",
+                "ml2H",
+                "m1FH",
+                "m1aH",
+                "3A2H",
+                "3AmH",
+                "ma1H",
+                "mJaH",
+                "mJFH",
+                "3mFH",
+                "3maH",
+                "331H",
+                "m1a1",
+                "m1F1",
+                "ml21",
+                "mlm1",
+                "3A21",
+                "3mF1",
+                "3ma1",
+                "3311",
+                "mlml",
+                "m1Fl",
+                "m1al",
+                "3A2l",
+                "331l",
+                "m1FF",
+                "3A2F",
+                "3maF",
+                "331F",
+                "m1F3",
+                "ml23",
+                "3A23",
+                "m1Fm",
+                "ml2m",
+                "3A2m",
+                "3mFm",
+                "3mam",
+                "m1aA",
+                "3A2A",
+                "m1Ja",
+                "mlHa",
+                "mlAa",
+                "3AHa",
+                "3mJa",
+                "33la",
+                "m1JJ",
+                "mHlJ",
+                "m2AJ",
+                "m2HJ",
+                "mJ3J",
+                "mJJJ",
+                "malJ",
+                "3AAJ",
+                "3AHJ",
+                "m1J2",
+                "m132",
+                "mlH2",
+                "3AH2",
+                "3m32",
+                "3mJ2",
+                "mJ32",
+                "m2AH",
+                "malH",
+                "mJ3H",
+                "mal1",
+                "3AA1",
+                "3AH1",
+                "3m31",
+                "3mJ1",
+                "33l1",
+                "mJ31",
+                "m2A1",
+                "mHl1",
+                "m1J1",
+                "m131",
+                "mlH1",
+                "mlA1"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "type": "laser-",
+            "value": 700,
+            "color": 0,
+            "loca": [
+                "3ma3"
+            ]
+        },
+        {
+            "type": "laser1",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "m2A2"
+            ]
+        }
+    ],
+    "props2": [
+        {
+            "type": "spikes",
+            "value": 4,
+            "color": 0,
+            "loca": [
+                "ml21"
+            ]
+        },
+        {
+            "type": "spikes",
+            "value": 3,
+            "color": 0,
+            "loca": [
+                "331l"
+            ]
+        }
+    ]
+}

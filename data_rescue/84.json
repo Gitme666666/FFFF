@@ -1,0 +1,176 @@
+{
+    "w": 17,
+    "h": 17,
+    "type": "rescue",
+    "rescueMode": {
+        "type": "mode7",
+        "pos": "3FlJ",
+        "size": 5,
+        "value": 100,
+        "count": 4
+    },
+    "bricks": [
+        {
+            "type": "brick5",
+            "value": 50,
+            "color": 8,
+            "loca": [
+                "33J1",
+                "33mH",
+                "3ml2",
+                "3A21",
+                "3AAH",
+                "3A2A",
+                "31lH",
+                "maF3",
+                "3lAJ"
+            ]
+        },
+        {
+            "type": "brick4",
+            "value": 50,
+            "color": 8,
+            "loca": [
+                "3l3m",
+                "3lJJ",
+                "3111",
+                "3Hma",
+                "3HJH",
+                "3mFJ",
+                "3Hml",
+                "3323",
+                "32lJ"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 50,
+            "color": 8,
+            "loca": [
+                "3F1F",
+                "33Jl",
+                "3F13",
+                "3l3A",
+                "3lJ2",
+                "33m1",
+                "3mlH",
+                "311l",
+                "3ml1",
+                "311F",
+                "3mll",
+                "3113",
+                "3A2l",
+                "3HmJ",
+                "3mlF",
+                "311m",
+                "3AA1",
+                "3HJ1",
+                "3ml3",
+                "311A",
+                "3AAl",
+                "33AJ",
+                "3lJA",
+                "3HJl",
+                "31la",
+                "3AAF",
+                "3lJm",
+                "3lmF",
+                "3Fl1",
+                "3322",
+                "33Aa",
+                "3mlm",
+                "33A2",
+                "3l2a",
+                "3HJF",
+                "3AA3",
+                "33AH",
+                "3l2J",
+                "3HJ3",
+                "33A1",
+                "3l22",
+                "3AAm",
+                "3HJm",
+                "31l1",
+                "3HmF",
+                "3mF2",
+                "3AHa",
+                "31ll",
+                "33Al",
+                "3l2H",
+                "3AAA",
+                "3HJA",
+                "3Hm3",
+                "3mFH",
+                "3AHJ"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "332H",
+                "3lm3",
+                "3Fll",
+                "3321",
+                "3FlF",
+                "3lmm",
+                "3Fl3"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 50,
+            "color": 1,
+            "loca": [
+                "332l",
+                "3lmA",
+                "3Flm",
+                "332F",
+                "3lAa",
+                "3FlA",
+                "3H2a",
+                "3Hmm",
+                "31lF",
+                "3l21",
+                "33AF",
+                "3mF1",
+                "3AH2",
+                "maaa",
+                "3HmA",
+                "31l3",
+                "3mFl",
+                "3AHH"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "type": "laser-",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "3J32",
+                "mJ21"
+            ]
+        },
+        {
+            "type": "scatter",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "mJHa",
+                "maF2",
+                "321F",
+                "3J3m",
+                "mJAm",
+                "3JJa",
+                "3JmH",
+                "mJHl",
+                "3JJl",
+                "m2aH"
+            ]
+        }
+    ],
+    "props2": []
+}

@@ -1,0 +1,190 @@
+{
+    "w": 15,
+    "h": 15,
+    "type": "rescue",
+    "rescueMode": {
+        "type": "mode3",
+        "pos": "3A2A",
+        "size": 5,
+        "value": 100,
+        "count": 5
+    },
+    "bricks": [
+        {
+            "type": "brick7",
+            "value": 0,
+            "color": 0,
+            "loca": [
+                "3312",
+                "3ma2",
+                "3mF2",
+                "3A22",
+                "3Am2",
+                "ma12",
+                "mJa2",
+                "mJF2",
+                "m222",
+                "m2m2",
+                "m1a2",
+                "mH12",
+                "m1F2",
+                "ml22",
+                "mlm2",
+                "331H",
+                "mlmH",
+                "3311",
+                "mlm1",
+                "3Am1",
+                "ma11",
+                "mJa1",
+                "mJF1",
+                "m221",
+                "m2m1",
+                "mH11",
+                "m1a1",
+                "m1F1",
+                "331l",
+                "mlml",
+                "3Aml",
+                "mJal",
+                "ma1l",
+                "331F",
+                "3AmF",
+                "ma1F",
+                "mJaF",
+                "mlmF",
+                "ml2F",
+                "m1FF",
+                "m1aF",
+                "mH1F",
+                "m2mF",
+                "m22F",
+                "3313",
+                "mJa3",
+                "mlm3",
+                "331m",
+                "mJam",
+                "mlmm",
+                "mJFm",
+                "m22m",
+                "m2mm",
+                "mH1m",
+                "m1am",
+                "m1Fm",
+                "331A",
+                "mJaA",
+                "mlmA",
+                "33la",
+                "mJJa",
+                "mlAa",
+                "mlHa",
+                "m13a",
+                "m1Ja",
+                "mHla",
+                "m2Aa",
+                "m2Ha",
+                "33lJ",
+                "mJJJ",
+                "mlAJ",
+                "mJJ2",
+                "33l2",
+                "3mJ2",
+                "3m32",
+                "3AH2",
+                "mlA2",
+                "3AA2",
+                "mal2",
+                "mJ32",
+                "m2H2",
+                "m2A2",
+                "mHl2",
+                "m1J2",
+                "m132",
+                "mlAH",
+                "mJJH",
+                "33lH",
+                "3m3H",
+                "mlA1",
+                "mlH1",
+                "m131",
+                "m1J1",
+                "mHl1",
+                "m2A1",
+                "m2H1",
+                "mJJ1",
+                "33l1",
+                "3AA1",
+                "3m31",
+                "mlAl",
+                "mJJl",
+                "33ll",
+                "3AAl",
+                "m13F",
+                "mlAF",
+                "mJJF",
+                "m1JF",
+                "3AAF",
+                "3AHF",
+                "3m3F",
+                "3mJF",
+                "33lF",
+                "mHlF",
+                "m2AF",
+                "m2HF",
+                "mJ3F"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "3AmH"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 5,
+            "color": 0,
+            "loca": [
+                "3mJH"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "type": "scatter",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "ml21"
+            ]
+        }
+    ],
+    "props2": [
+        {
+            "type": "lock2",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "3AmH"
+            ]
+        },
+        {
+            "type": "spikes",
+            "value": 4,
+            "color": 0,
+            "loca": [
+                "3mJ2"
+            ]
+        },
+        {
+            "type": "key",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "3mJH"
+            ]
+        }
+    ]
+}

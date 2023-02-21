@@ -1,0 +1,191 @@
+{
+    "w": 13,
+    "h": 13,
+    "type": "rescue",
+    "rescueMode": {
+        "type": "mode39",
+        "pos": "mF2J",
+        "size": 5,
+        "value": 50,
+        "count": 3
+    },
+    "bricks": [
+        {
+            "type": "brick6",
+            "value": 0,
+            "color": 0,
+            "loca": [
+                "mm2l",
+                "m33H",
+                "m32J",
+                "mFFA",
+                "mFJ3",
+                "mlFl",
+                "mlJH",
+                "m1FJ",
+                "m1aA",
+                "mA2A",
+                "mA23",
+                "mm3l",
+                "mm2H",
+                "m33J",
+                "m3JA",
+                "mFF3",
+                "mFJl",
+                "mlFH",
+                "mlJJ",
+                "m1lA",
+                "m1a3",
+                "mHll",
+                "mHaH",
+                "m1Ja",
+                "mm2F",
+                "mAHa",
+                "mHaF",
+                "mA2m",
+                "mHa1",
+                "mHal",
+                "mAHJ",
+                "m1JJ",
+                "mm23",
+                "mHa3",
+                "mAH2",
+                "mHam",
+                "mAHH",
+                "m333",
+                "mm2A",
+                "mmmJ",
+                "mHaA",
+                "mHFJ",
+                "m1JH",
+                "m1Fl",
+                "mAH1",
+                "mHJa",
+                "mAHl",
+                "m1F3",
+                "m33A",
+                "mHJJ",
+                "mAHF",
+                "ml2a",
+                "m1Fm",
+                "m32m",
+                "m3ma",
+                "mHJ2",
+                "mAH3",
+                "mHJH",
+                "mHJ1",
+                "m1Jm",
+                "m13a",
+                "ml22",
+                "ml31",
+                "mF2F",
+                "mF3m",
+                "m3Ha",
+                "m3m2",
+                "mmH1",
+                "mAHm",
+                "ml2J",
+                "m32A"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "m1am",
+                "m1Fa",
+                "mlJ2",
+                "mlF1",
+                "mFJF",
+                "mFFm",
+                "m32a",
+                "m332",
+                "mm21",
+                "mHl3",
+                "mm33",
+                "mHlm",
+                "mlJ1",
+                "mlFF",
+                "mm3m",
+                "m322",
+                "mF3a",
+                "mHlA",
+                "mm3A",
+                "m1F1",
+                "m1J2",
+                "mHFa",
+                "mmma",
+                "mm2m",
+                "m33F"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "type": "portal",
+            "value": 51,
+            "color": 0,
+            "loca": [
+                "m33m",
+                "mm3F"
+            ]
+        },
+        {
+            "type": "portal",
+            "value": 52,
+            "color": 0,
+            "loca": [
+                "m1FF",
+                "mHlF"
+            ]
+        },
+        {
+            "type": "portal",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "mFJm",
+                "mF2l"
+            ]
+        },
+        {
+            "type": "scatter",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "m33l",
+                "m1FH",
+                "mHFF",
+                "mmmF"
+            ]
+        }
+    ],
+    "props2": [
+        {
+            "type": "spikes",
+            "value": 1,
+            "color": 0,
+            "loca": [
+                "mFJF",
+                "mlFF"
+            ]
+        },
+        {
+            "type": "spikes",
+            "value": 4,
+            "color": 0,
+            "loca": [
+                "mm3A"
+            ]
+        },
+        {
+            "type": "spikes",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "mHFa"
+            ]
+        }
+    ]
+}

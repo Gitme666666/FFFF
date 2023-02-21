@@ -1,0 +1,165 @@
+{
+    "w": 15,
+    "h": 15,
+    "type": "rescue",
+    "rescueMode": {
+        "type": "mode3",
+        "pos": "mJF3",
+        "size": 5,
+        "value": 100,
+        "count": 5
+    },
+    "bricks": [
+        {
+            "type": "brick7",
+            "value": 0,
+            "color": 0,
+            "loca": [
+                "ma12",
+                "3Am2",
+                "3A22",
+                "mJaH",
+                "mlm2",
+                "ml22",
+                "m1F2",
+                "m1a2",
+                "mH12",
+                "m2m2",
+                "m222",
+                "mJF2",
+                "mJa2",
+                "3mF2",
+                "3ma2",
+                "3312",
+                "ma1H",
+                "3Am1",
+                "m221",
+                "m2m1",
+                "mH11",
+                "mH1l",
+                "3Aml",
+                "mH1F",
+                "3AmF",
+                "mH13",
+                "3Am3",
+                "3Amm",
+                "mH1m",
+                "3AmA",
+                "mH1A",
+                "3AAa",
+                "mala",
+                "mJJa",
+                "mJ3a",
+                "m2Ha",
+                "m2Aa",
+                "mHla"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "3AmH",
+                "m1aH"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 999,
+            "color": 0,
+            "loca": [
+                "3mF1",
+                "3A21",
+                "3ma1",
+                "m1a1",
+                "m1F1",
+                "ml21",
+                "3maF",
+                "331F",
+                "3mFF",
+                "mlmF",
+                "ml2F",
+                "m1FF",
+                "3mam",
+                "3mFm",
+                "3A2m",
+                "m1am",
+                "m1Fm",
+                "ml2m",
+                "3m3a",
+                "3mJa",
+                "mlAa",
+                "mlHa",
+                "m13a",
+                "33la",
+                "mlH2",
+                "m132",
+                "m1J2",
+                "mHl2",
+                "m2A2",
+                "m2H2",
+                "mJ32",
+                "mJJ2",
+                "3AH2",
+                "3m32",
+                "3mJ2",
+                "mal2",
+                "3AA2",
+                "33l1",
+                "3mJ1",
+                "mlH1",
+                "mlA1"
+            ]
+        },
+        {
+            "type": "brick4",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "3AHJ"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "type": "scatter",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "mlm1",
+                "3311",
+                "m1Ja",
+                "3AHa",
+                "mlA2",
+                "33l2"
+            ]
+        }
+    ],
+    "props2": [
+        {
+            "type": "spikes",
+            "value": 1,
+            "color": 0,
+            "loca": [
+                "ma1H"
+            ]
+        },
+        {
+            "type": "key",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "3AmH"
+            ]
+        },
+        {
+            "type": "lock2",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "m1aH"
+            ]
+        }
+    ]
+}
