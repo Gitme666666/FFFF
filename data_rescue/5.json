@@ -1,0 +1,142 @@
+{
+    "w": 15,
+    "h": 15,
+    "type": "rescue",
+    "rescueMode": {
+        "type": "mode14",
+        "pos": "m1Fl",
+        "size": 5,
+        "value": 99,
+        "count": 4
+    },
+    "bricks": [
+        {
+            "type": "brick7",
+            "value": 0,
+            "color": 0,
+            "size": 1,
+            "loca": [
+                "mlm2",
+                "ml22",
+                "m1F2",
+                "m1a2",
+                "mH12",
+                "m2m2",
+                "m222",
+                "mJF2",
+                "mJa2",
+                "ma12",
+                "3Am2",
+                "3A22",
+                "3mF2",
+                "3ma2",
+                "3312",
+                "m2mH",
+                "331H",
+                "m2m1",
+                "3311",
+                "3mF1",
+                "3A21",
+                "3Am1",
+                "ma11",
+                "mJa1",
+                "mJF1",
+                "m2ml",
+                "331l",
+                "mJFl",
+                "m2mF",
+                "331F",
+                "3maF",
+                "3mFF",
+                "3A2F",
+                "3AmF",
+                "ma1F",
+                "mJFF",
+                "m2m3",
+                "mJF3",
+                "m2mm",
+                "mJFm",
+                "mJam",
+                "ma1m",
+                "3Amm",
+                "3A2m",
+                "3mFm",
+                "3mam",
+                "ml2m",
+                "mlmm",
+                "3maA",
+                "mH1A",
+                "m2mA",
+                "mlmA",
+                "3mJa",
+                "3AHa",
+                "3AAa",
+                "mala",
+                "mJJa",
+                "mJ3a",
+                "m2Ha",
+                "m2Aa",
+                "mHla",
+                "m1Ja",
+                "m13a",
+                "mlAa",
+                "3mJJ",
+                "3AHJ",
+                "mlAJ",
+                "3AH2",
+                "3mJ2",
+                "mlA2",
+                "mlH2",
+                "m132",
+                "m1J2",
+                "mHl2",
+                "m2A2",
+                "m2H2",
+                "mJ32",
+                "mJJ2",
+                "mal2",
+                "33l2"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 999,
+            "color": 6,
+            "size": 1,
+            "loca": [
+                "m1aA"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "type": "missile",
+            "value": 50,
+            "color": 0,
+            "size": 1,
+            "loca": [
+                "33lJ"
+            ]
+        }
+    ],
+    "props2": [
+        {
+            "type": "target",
+            "value": 2,
+            "color": 0,
+            "size": 1,
+            "loca": [
+                "m1aA"
+            ]
+        },
+        {
+            "type": "spikes",
+            "value": 2,
+            "color": 0,
+            "size": 1,
+            "loca": [
+                "33l2"
+            ]
+        }
+    ]
+}

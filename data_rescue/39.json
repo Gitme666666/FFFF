@@ -1,0 +1,172 @@
+{
+    "w": 17,
+    "h": 17,
+    "type": "rescue",
+    "rescueMode": {
+        "type": "mode25",
+        "pos": "3FlJ",
+        "size": 9,
+        "value": 100,
+        "count": 5
+    },
+    "bricks": [
+        {
+            "type": "brick7",
+            "value": 0,
+            "color": 0,
+            "loca": [
+                "malH",
+                "mal1",
+                "3lJa",
+                "3112",
+                "3H31",
+                "3HaF",
+                "32Hm",
+                "3J3a",
+                "3Ja2",
+                "mJAa",
+                "mJ22",
+                "3AJm",
+                "3mla",
+                "3l3m",
+                "3JaH",
+                "mJ21",
+                "malF",
+                "3Amm",
+                "321a",
+                "3Ja1",
+                "321J",
+                "3Jal",
+                "malm",
+                "mJ2F",
+                "mJA1",
+                "3212",
+                "3JaF",
+                "321H",
+                "3Ja3",
+                "mJ2m",
+                "maFa",
+                "3AA2",
+                "3211",
+                "3Jam",
+                "321l",
+                "3JaA",
+                "maF2",
+                "mJHa",
+                "mJAm",
+                "321F",
+                "3JJa",
+                "3213",
+                "3JJJ",
+                "mJH2",
+                "maF1",
+                "3AAF",
+                "3A2m",
+                "3mFa",
+                "33A2",
+                "321m",
+                "3JJ2",
+                "3lmA",
+                "321A",
+                "3JJH",
+                "mJHH",
+                "332F",
+                "3Flm",
+                "3lAa",
+                "3l22",
+                "31l1",
+                "3HmF",
+                "3HJm",
+                "32la",
+                "3JJ1",
+                "33A1",
+                "3mF2",
+                "3AHa",
+                "3AAm",
+                "maFF",
+                "mJH1"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 20,
+            "color": 6,
+            "loca": [
+                "mall",
+                "mal3",
+                "malA",
+                "maFJ",
+                "maFH"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 150,
+            "color": 2,
+            "loca": [
+                "3l2a"
+            ]
+        },
+        {
+            "type": "brick6",
+            "value": 0,
+            "color": 0,
+            "loca": [
+                "3Hm1"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 25,
+            "color": 7,
+            "loca": [
+                "m2aJ",
+                "m2a2"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "type": "scatter",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "3AmF",
+                "mJA2",
+                "3AAa",
+                "mJAF",
+                "3AA1"
+            ]
+        },
+        {
+            "type": "lightning",
+            "value": 999,
+            "color": 0,
+            "loca": [
+                "31l2"
+            ]
+        },
+        {
+            "type": "gun_part",
+            "value": 225,
+            "color": 0,
+            "loca": [
+                "3HJ3"
+            ]
+        }
+    ],
+    "props2": [
+        {
+            "type": "spikes",
+            "value": 3,
+            "color": 0,
+            "loca": [
+                "mall",
+                "mal3",
+                "malA",
+                "maFJ",
+                "maFH"
+            ]
+        }
+    ]
+}

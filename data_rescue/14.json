@@ -1,0 +1,342 @@
+{
+    "w": 23,
+    "h": 23,
+    "type": "rescue",
+    "rescueMode": {
+        "type": "mode5",
+        "pos": "l3J1",
+        "size": 5,
+        "value": 50,
+        "count": 6
+    },
+    "bricks": [
+        {
+            "type": "brick1",
+            "value": 700,
+            "color": 9,
+            "loca": [
+                "lH12",
+                "lJlm",
+                "lmAl",
+                "lmaH",
+                "l3JJ",
+                "lFJA",
+                "ll23",
+                "lH1H",
+                "lJlA",
+                "lAmm",
+                "l1HF",
+                "lH11",
+                "lJFa",
+                "lAmA",
+                "l1H3",
+                "lH1l",
+                "lJFJ",
+                "FamJ",
+                "lAAa",
+                "l1Hm",
+                "lH1F",
+                "Fam2",
+                "lJF2",
+                "FJ31",
+                "l2l1",
+                "lAAJ",
+                "l1HA",
+                "lH13",
+                "FamH",
+                "F2F3",
+                "lJFH",
+                "lAA2",
+                "l11a",
+                "lH1m",
+                "Fam1",
+                "FHFa",
+                "lAaJ",
+                "lAAH",
+                "llHH",
+                "l11J",
+                "lH1A",
+                "1AmJ",
+                "F1lH",
+                "Faml",
+                "lJFl",
+                "F23a",
+                "1Am2",
+                "F1l1",
+                "FamF",
+                "lHla",
+                "lJFF",
+                "1AmH",
+                "F1ll",
+                "Fam3",
+                "lAAl",
+                "lAaH",
+                "lF23",
+                "l3JA",
+                "llHl",
+                "l11H",
+                "lHlJ",
+                "F23J",
+                "lJF3",
+                "1Am1",
+                "F1lF",
+                "l32a",
+                "llHF",
+                "lAa1",
+                "F232",
+                "lJFm",
+                "lF2m",
+                "1Aml",
+                "F1l3",
+                "llH3",
+                "lAal",
+                "F23H",
+                "FJmJ",
+                "FamA",
+                "lHlH",
+                "l2FJ",
+                "lJFA",
+                "1AmF",
+                "F1lm",
+                "l322",
+                "llHm",
+                "lAaF",
+                "lmJ1",
+                "FaAa",
+                "lHl1",
+                "l2F2",
+                "lJ3a",
+                "F231",
+                "FJm2",
+                "1Am3",
+                "F1lA",
+                "llHA",
+                "lAa3",
+                "FaAJ",
+                "lHll",
+                "FJmH",
+                "F23l",
+                "1Amm",
+                "FJm1",
+                "F23F",
+                "F1Fa",
+                "l321",
+                "ll1a",
+                "lAam",
+                "FaA2",
+                "lHlF",
+                "lFH2",
+                "lJ32",
+                "lama",
+                "1AmA",
+                "F1FJ",
+                "ll1J",
+                "lAaA",
+                "FaAH",
+                "lHl3",
+                "lmJm",
+                "1AAa",
+                "F1F2",
+                "FH3a",
+                "F23m",
+                "l32F",
+                "ll12",
+                "lAJa",
+                "FaA1",
+                "lHlm",
+                "lJ31",
+                "l2FF",
+                "1AAJ",
+                "lAJJ",
+                "F1FH",
+                "ll1H",
+                "FaAl",
+                "lHlA",
+                "lJ3l",
+                "l2F3",
+                "lFHF",
+                "1AA2",
+                "lAJ2",
+                "F1F1",
+                "l32m",
+                "ll11",
+                "FaAF",
+                "FJmm",
+                "F2ma",
+                "lHFa",
+                "l2Fm",
+                "lJ3F",
+                "lAJH",
+                "ll1l",
+                "F2mJ",
+                "FJmA",
+                "lJ33",
+                "l2FA",
+                "lAJ1",
+                "1AA1",
+                "lamF",
+                "lJ3m",
+                "l23a",
+                "lHF2",
+                "l1l1",
+                "ll1F",
+                "l3Ha",
+                "lm22",
+                "FaaF",
+                "FaAm",
+                "FJAa",
+                "F2m2",
+                "FH31",
+                "F1FF"
+            ]
+        },
+        {
+            "type": "brick4",
+            "value": 700,
+            "color": 9,
+            "loca": [
+                "l1Hl",
+                "l2lH",
+                "la3J",
+                "1Ama",
+                "1mmA"
+            ]
+        },
+        {
+            "type": "brick5",
+            "value": 700,
+            "color": 9,
+            "loca": [
+                "lAm3",
+                "Fama",
+                "FJ3H",
+                "F2FF",
+                "FHlA",
+                "F1l2",
+                "Fl1l"
+            ]
+        },
+        {
+            "type": "brick2",
+            "value": 700,
+            "color": 0,
+            "loca": [
+                "FJ3l",
+                "F2Fm",
+                "FHFJ"
+            ]
+        },
+        {
+            "type": "brick5",
+            "value": 700,
+            "color": 0,
+            "loca": [
+                "F2FA"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 35,
+            "color": 6,
+            "loca": [
+                "l32J",
+                "l32H",
+                "l32l",
+                "l323",
+                "l32A"
+            ]
+        },
+        {
+            "type": "brick1",
+            "value": 35,
+            "color": 0,
+            "loca": [
+                "l1lH"
+            ]
+        }
+    ],
+    "props": [
+        {
+            "type": "scatter",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "FHFH",
+                "la3l",
+                "lmJ2",
+                "lmJF",
+                "lFH1"
+            ]
+        },
+        {
+            "type": "laser-",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "l11l",
+                "lAAA",
+                "l11A",
+                "l1lJ",
+                "FaA3"
+            ]
+        },
+        {
+            "type": "gun_part",
+            "value": 345,
+            "color": 0,
+            "loca": [
+                "lFHm"
+            ]
+        },
+        {
+            "type": "gun_part",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "F31H"
+            ]
+        },
+        {
+            "type": "gun_part",
+            "value": 310,
+            "color": 0,
+            "loca": [
+                "13JA"
+            ]
+        }
+    ],
+    "props2": [
+        {
+            "type": "spikes",
+            "value": 3,
+            "color": 0,
+            "loca": [
+                "l2FA"
+            ]
+        },
+        {
+            "type": "spikes",
+            "value": 1,
+            "color": 0,
+            "loca": [
+                "FJmA"
+            ]
+        },
+        {
+            "type": "lock2",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "l32A"
+            ]
+        },
+        {
+            "type": "key",
+            "value": 50,
+            "color": 0,
+            "loca": [
+                "l1lH"
+            ]
+        }
+    ]
+}
